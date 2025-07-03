@@ -1,0 +1,21 @@
+{
+    "name": "Calendra - Jadwal Mahasiswa",
+    "short_name": "Calendra",
+    "description": "Aplikasi Manajemen Jadwal Kuliah dan Tugas Mahasiswa Berbasis PWA.",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#eef2ff",
+    "theme_color": "#ffffff",
+    "icons": [
+        {
+            "src": "/icons/icon-192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/icons/icon-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}

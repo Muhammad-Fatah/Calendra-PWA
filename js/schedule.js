@@ -98,7 +98,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 if ('serviceWorker' in navigator) {
     window.addEventListener('load', () => {
-        navigator.serviceWorker.register('/sw.js') // Path '/sw.js' sudah benar
+        navigator.serviceWorker.register('/sw.js')
             .then(reg => console.log('Service Worker: Terdaftar', reg))
             .catch(err => console.error('Service Worker: Gagal', err));
     });

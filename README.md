@@ -41,7 +41,7 @@ live demo : https://calendra-pwa.web.app/
 
 1. Clone Repository
     ```bash
-    git clone https://github.com/username/calendra.git
+    git clone https://github.com/Muhammad-Fatah/Calendra-PWA.git
     cd calendra
 2. Buka di Browser
     Cukup buka index.html dengan browser modern (Chrome/Edge/Firefox).

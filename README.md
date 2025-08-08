@@ -1,8 +1,8 @@
  Calendra – Aplikasi Jadwal Kuliah Berbasis Progressive Web App (PWA)
 
 **Calendra** adalah aplikasi web progresif yang membantu mahasiswa mengelola jadwal kuliah, tugas, dan tenggat waktu (deadline) dalam satu platform yang modern, ringan, dan responsif. Dapat digunakan secara **offline**, **diinstal seperti aplikasi mobile**, dan mendukung semua perangkat.
-live demo : https://calendra-pwa.web.app/
 ---
+live demo : https://calendra-pwa.web.app/
 
  Fitur Unggulan
 
